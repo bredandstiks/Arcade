@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"JumpCheckScript",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"JumpCheckScript",
+  "parent":{
+    "name":"Scrpts",
+    "path":"folders/Scrpts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

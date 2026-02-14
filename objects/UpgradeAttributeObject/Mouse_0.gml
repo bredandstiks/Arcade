@@ -1,0 +1,1 @@
+global.speedModifier *= 1.01;

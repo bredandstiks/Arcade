@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GroundCheckScript",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GroundCheckScript",
+  "parent":{
+    "name":"Scrpts",
+    "path":"folders/Scrpts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

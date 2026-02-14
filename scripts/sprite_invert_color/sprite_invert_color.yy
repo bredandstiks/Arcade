@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sprite_invert_color",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sprite_invert_color",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scrpts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
