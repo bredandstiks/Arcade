@@ -9,11 +9,11 @@ if(keyboard_check(ord("A")) && image_angle != 270)
 {
 	direct = "left";
 }
-if(keyboard_check(ord("S")) && image_angle != 0)
+if(keyboard_check(ord("D")) && image_angle != 90)
 {
 	direct = "right";
 }
-if(keyboard_check(ord("D")) && image_angle != 90)
+if(keyboard_check(ord("S")) && image_angle != 0)
 {
 	direct = "down";
 }
