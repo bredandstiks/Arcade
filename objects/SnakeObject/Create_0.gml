@@ -3,7 +3,7 @@ move_timer = move_speed * room_speed;
 direct = "up"; //direction
 
 points = 0;
-start_body_parts = 3; // includes head
+start_body_parts = 3; // includes head as 1
 
 bodyPart[0] = SnakeObject;
 

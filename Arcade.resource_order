@@ -1,7 +1,6 @@
 {
   "FolderOrderSettings":[
     {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
-    {"name":"TEST","order":7,"path":"folders/TEST.yy",},
     {"name":"Objects","order":2,"path":"folders/Objects.yy",},
     {"name":"Settings","order":6,"path":"folders/Objects/Buttons/Settings.yy",},
     {"name":"Runner","order":1,"path":"folders/Objects/Runner.yy",},
