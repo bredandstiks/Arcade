@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"snake_die",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"snake_die",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scrpts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

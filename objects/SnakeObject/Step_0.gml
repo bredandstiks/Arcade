@@ -1,19 +1,19 @@
 move_timer--;
 
 //checks to make sure snake doesn't move backwards
-if(keyboard_check(ord("W")) && image_angle != 180)
+if((keyboard_check(ord("W")) || keyboard_check(vk_up)) && image_angle != 180)
 {
 	direct = "up";
 }
-if(keyboard_check(ord("A")) && image_angle != 270)
+if((keyboard_check(ord("A")) || keyboard_check(vk_left)) && image_angle != 270)
 {
 	direct = "left";
 }
-if(keyboard_check(ord("D")) && image_angle != 90)
+if((keyboard_check(ord("D")) || keyboard_check(vk_right)) && image_angle != 90)
 {
 	direct = "right";
 }
-if(keyboard_check(ord("S")) && image_angle != 0)
+if((keyboard_check(ord("S")) || keyboard_check(vk_down)) && image_angle != 0)
 {
 	direct = "down";
 }

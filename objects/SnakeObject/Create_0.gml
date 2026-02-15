@@ -15,3 +15,5 @@ for(i = 1; i < start_body_parts; i += 1)
 {
 	bodyPart[i] = instance_create_layer(x, y + 32 * i, "Instances", BodyObject);
 }
+
+die_on_edge = true; //checks if player dies at edge of the screen
