@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"GroundCheckScript",
+  "%Name":"arcade_finish",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"GroundCheckScript",
+  "name":"arcade_finish",
   "parent":{
-    "name":"Runner",
-    "path":"folders/Scrpts/Runner.yy",
+    "name":"Functions",
+    "path":"folders/Scrpts/Functions.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

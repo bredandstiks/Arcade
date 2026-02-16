@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"DetectKeyScript",
   "parent":{
-    "name":"Scrpts",
-    "path":"folders/Scrpts.yy",
+    "name":"Runner",
+    "path":"folders/Scrpts/Runner.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

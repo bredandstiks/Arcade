@@ -1,10 +1,9 @@
 move_speed = 0.2; // smaller number = faster speed
-difficulty = 0.01; // bigger = faster when ghet apple
+difficulty = 0.005; // bigger = faster when ghet apple
 move_timer = move_speed * room_speed;
 direct = "up"; //direction
 
 points = 0;
-points_to_add = 1;
 
 high_score = points;
 

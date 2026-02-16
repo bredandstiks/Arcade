@@ -1,1 +1,1 @@
-room_goto(SnakeRoom);
+arcade_start("snake", SnakeRoom);

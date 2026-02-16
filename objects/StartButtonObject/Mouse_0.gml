@@ -1,1 +1,1 @@
-room_goto(RunnerRoom);
+arcade_start("runner", RunnerRoom);

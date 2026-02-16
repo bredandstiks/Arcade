@@ -61,5 +61,5 @@ if(move_timer == 0)
 		prev_head_y = prevY;
 	}
 	//reset move timer
-	move_timer = move_speed * room_speed;
+	move_timer = max(1, round(move_speed * room_speed));
 }
