@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"open_save",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"open_save",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/Scrpts/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

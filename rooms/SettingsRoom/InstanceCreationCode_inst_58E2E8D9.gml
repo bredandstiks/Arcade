@@ -1,3 +1,3 @@
-sprite_index = ResPotatoSprite;
-resw = 320;
-resh = 240;
+sprite_index = ResSuperPotatoSprite;
+resw = 128;
+resh = 72;

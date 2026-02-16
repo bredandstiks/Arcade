@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"RunnerSetupObject",
+  "%Name":"SetupObject",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"RunnerSetupObject",
+  "name":"SetupObject",
   "overriddenProperties":[],
   "parent":{
-    "name":"Runner",
-    "path":"folders/Objects/Runner.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
