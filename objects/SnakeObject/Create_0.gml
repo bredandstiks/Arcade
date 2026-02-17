@@ -5,7 +5,8 @@ direct = "up"; //direction
 
 points = 0;
 
-high_score = points;
+high_score = global.Snake_highScore;
+
 
 start_body_parts = 3; // includes head as 1
 

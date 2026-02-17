@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"sprite_invert_color",
+  "%Name":"save_system",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"sprite_invert_color",
+  "name":"save_system",
   "parent":{
-    "name":"Functions",
-    "path":"folders/Scrpts/Functions.yy",
+    "name":"Save",
+    "path":"folders/Scrpts/Save.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

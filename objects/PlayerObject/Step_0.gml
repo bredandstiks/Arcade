@@ -10,4 +10,3 @@ GroundCheckScript();
 JumpCheckScript();
 CollisionCheckScript();
 SetSpriteScript();
-

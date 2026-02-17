@@ -1,10 +1,12 @@
 function snake_die()
 {
-    if (high_score < points) high_score = points;
+    if (points > global.Snake_highScore)
+	{
+	    global.Snake_highScore = points;
+	    save_write(global.saveSlot);
+	}
 
-    // finish & return to hub
-    arcade_finish("dead", points);
 
-    // kill snake (and optionally body parts)
+    instance_create_layer(room_width/2 - 40, room_height/2 - 40, "UI", SnakeRestartButtonObject);
     instance_destroy();
 }

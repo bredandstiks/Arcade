@@ -1,15 +1,26 @@
-if(global.gameOver)
+if (global.gameOver)
 {
-	//set high score
-	if(global.Runner_highScore < score)
+    if (!global.runner_finished)
+    {
+        global.runner_finished = true;
+        global.runner_last_score = floor(score);
+
+        // set high score
+    if (score > global.Runner_highScore)
 	{
 		global.Runner_highScore = score;
+	    save_write(global.saveSlot);
 	}
-	//save high score
-	open_save(global.saveSlot);
-	
-	score = 0;
+
+
+        // save high score
+		save_write(global.saveSlot);
+
+    }
+
+    exit; // stop updating score/speed once game over
 }
+
 
 if (global.colorMode == 0)
 {

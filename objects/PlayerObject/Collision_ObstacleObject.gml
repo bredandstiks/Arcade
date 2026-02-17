@@ -1,5 +1,4 @@
 global.gameOver = true;
-	grav = 0;
 	global.speedModifier = 0;
 	image_speed = 0;
 	sprite_index = PlayerDeadSpriteDark;

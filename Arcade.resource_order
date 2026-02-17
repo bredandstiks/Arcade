@@ -8,6 +8,7 @@
     {"name":"rooms","order":3,"path":"folders/rooms.yy",},
     {"name":"Scrpts","order":5,"path":"folders/Scrpts.yy",},
     {"name":"Functions","order":5,"path":"folders/Scrpts/Functions.yy",},
+    {"name":"Save","order":7,"path":"folders/Scrpts/Save.yy",},
     {"name":"Runner","order":6,"path":"folders/Scrpts/Runner.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Arcade","order":8,"path":"folders/Sprites/Arcade.yy",},
